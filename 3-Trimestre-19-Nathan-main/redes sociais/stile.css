@@ -26,6 +26,16 @@ main{
     padding: 20px; 
     text-align: center; 
 }
+
+p{
+    border: red solid 3px;
+    fpadding: 20px;
+}
+
+span{
+    color: red;
+    font-weight: bold;
+
 footer{
     background-color: gainsboro;
     color: black;
